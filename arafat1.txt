@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/336.0.0.13.142;[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/548243062;FBCR/Grameenphone;FBMF/vivo;FBBD/vivo;FBDV/vivo 1906;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1406};FB_FW/1;]
+[FBAN/Orca-Android;FBAV/44.0.0.8.52;[FBAN/Orca-Android;FBAV/59.0.0.24.64;FBPN/com.facebook.orca;FBLC/en_US;FBBV/444535081;FBCR/FYVE;FBMF/Xiaomi;FBBD/Xiaomi;FBDV/Redmi Watch 4;FBSV/10;FBCA/armeabi v7a:armeabi;FBDM/{density=2.0,width=720,height=1376};]
