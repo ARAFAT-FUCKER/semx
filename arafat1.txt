@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/151.0.0.17.95;[FBAN/Orca-Android;FBAV/320.0.0.91.35;FBPN/com.facebook.orca;FBLC/en_US;FBBV/542435607;FBCR/Amigo;FBMF/samsung;FBBD/samsung;FBDV/Galaxy Watch Active2 Aluminum;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=3.1875,width=1080,height=2156};]
+[FBAN/FB4A;FBAV/766.0.0.39290;[FBAN/FB4A;FBAV/88.0.0.22.76;FBBV/35266889;FBDM/{density=1.5,width=480,height=800};FBLC/fr_FR;FBCR/airtel;FBMF/HUAWEI;FBBD/HUAWEI;FBPN/com.facebook.katana;FBDV/HUAWEI Y336-U02;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]
