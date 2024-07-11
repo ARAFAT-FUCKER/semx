@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/439.0.0.29.119;FBPN/com.facebook.orca;FBLC/en_US;FBBV/548243062;FBCR/Grameenphone;FBMF/vivo;FBBD/vivo;FBDV/vivo 1906;FBSV/11;FBCA/arm64-v8a:null;FBDM/{density=2.0,width=720,height=1406};FB_FW/1;]
+f'[FBAN/FB4A;FBAV/{fbav};FBBV/{fbbv};FBDM/{{density=3.0,width=1280,height=1440}};FBLC/{lc};FBRV/0;FBCR/{cr};FBMF/Xiaomi;FBBD/Xiaomi;FBPN/com.facebook.katana;FBDV/{gtt};FBSV/{android_version};FBOP/19;FBCA/armeabi-v7a:armeabi;]'
