@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/353.0.0.34.116;FBBV/349723114;FBDM/{density=2.0,width=720,height=1362};FBLC/uk_UA;FBRV/351091492;FBCR/Vodafone UA;FBMF/OUKITEL;FBBD/OUKITEL;FBPN/com.facebook.katana;FBDV/C22;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
+Davik/2.1.0 (linux; U; Android 6.0.1; Infinix Zero 30 4G Build/SKQ1.210216.001[FBAN/Orca-Android;FBAV/247.0.0.30.84;FBPN/com.facebook.orca;FBBV/410140983;FBLC/en_US;FBCA/arm64-v8a:;FBCR/Robi_Airtel;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix Zero 30 4G;FBSV/11;FBDM/{density=3.0,width=1280,height=1440};]
