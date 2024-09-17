@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/299.0.0.5.76;[FBAN/Orca-Android;FBAV/32.0.0.87.69;FBPN/com.facebook.orca;FBLC/en_US;FBBV/839442283;FBCR/Banglalink_Robi;FBMF/samsung;FBBD/samsung;FBDV/E1150;FBSV/10;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.8125,width=1080,height=2038};]
+Davik/2.1.0 (linux; U; Android 4.0.1; Infinix Note 11 Build/SKQ1.210216.001[FBAN/Orca-Android;FBAV/247.0.0.30.84;FBPN/com.facebook.orca;FBBV/410140983;FBLC/en_US;FBCA/arm64-v8a:;FBCR/verizon;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix Note 11;FBSV/11;FBDM/{density=1.5,width=1080,height=1280};]
