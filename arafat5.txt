@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/223.0.0.220;FBBV/712527451;FBDM/{density=2.344498440670641,width=1033,height=2010};FBLC/it_IT;FBRV/313611295;FBCR/Banglalink;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/Oppo R11;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]
+[FBAN/Orca-Android;FBAV/172.0.0.1715;FBPN/com.facebook.orca;FBLC/de_DE;FBBV/682451903;FBCR/Robi_India;FBMF/samsung;FBBD/samsung;FBDV/SM-T705|LRX22G;;FBSV/11.1.1;FBCA/armeabi-v7a:armeabi;FBDM/{density=2.25,width=1193,height=1904};FB_FW/1;FBRV/682451903]
