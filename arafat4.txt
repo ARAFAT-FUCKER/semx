@@ -1,4 +1,4 @@
-{'Host': 'p.facebook.com',
+{'Host': '{fb}.facebook.com',
 'Content-Length': '1730',
 'sec-ch-ua': '"Not_A Brand";v="8", "Chromium";v="120", "Android WebView";v="120"',
 'sec-ch-ua-mobile': '?1',
@@ -12,10 +12,10 @@
 'DPR': '2',
 'sec-ch-ua-platform': '"Android"',
 'Accept': '*/*',
-'Origin': 'https://p.facebook.com',
+'Origin': 'https://{fb}.facebook.com',
 'Sec-Fetch-Site': 'same-origin',
 'Sec-Fetch-Mode': 'cors',
 'Sec-Fetch-Dest': 'empty',
-'Referer': 'https://p.facebook.com/',
+'Referer': 'https://{fb}.facebook.com/',
 'Accept-Encoding': 'gzip, deflate, br',
 'Accept-Language': 'en-IE,en-US;q=0.9,en;q=0.8',}
