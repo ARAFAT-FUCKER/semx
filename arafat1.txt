@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/405.0.0.16.112;FBPN/com.facebook.orca;FBLC/en_US;FBBV/466674870;FBCR/JIO 4G;FBMF/vivo;FBBD/iQOO;FBDV/I2208;FBSV/12;FBCA/arm64-v8a:null;FBDM/{density=2.75,width=1080,height=2226};FB_FW/1;]
+[FBAN/FB4A;FBAV/120.0.0.22.70;FBPN/com.facebook.katana;FBLC/en_US;FBBV/835161758;FBCR/Robi Airtel;FBMF/samsung;FBBD/samsung;FBDV/Galaxy Camera 2 GC200;FBSV/13.5.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.75,width=720,height=1381};FB_FW/1;]
