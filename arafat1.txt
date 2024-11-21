@@ -1,1 +1,1 @@
-[FBAN/FB4A;FBAV/120.0.0.22.70;FBPN/com.facebook.katana;FBLC/en_US;FBBV/835161758;FBCR/Robi Airtel;FBMF/samsung;FBBD/samsung;FBDV/Galaxy Camera 2 GC200;FBSV/13.5.1;FBCA/arm64-v8a:armeabi-v7a:armeabi;FBDM/{density=1.75,width=720,height=1381};FB_FW/1;]
+Dalvik/2.1.0 (Linux; U; Android 11; SM-G965F Build/QP1A.931091.968) [FBAN/FB4A;FBAV/463.0.0.0.50;FBBV/451606073;FBDM/{density=2.0,width=720,height=1456};FBLC/en_US;FBRV/0;FBCR/Airtel;FBMF/Visture;FBBD/Visture ;FBPN/com.facebook.katana;FBDV/Visture V10;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
