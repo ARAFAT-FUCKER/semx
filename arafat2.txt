@@ -1,1 +1,1 @@
-[FBAN/Orca-Android;FBAV/136.0.0.60.47;FBPN/com.facebook.orca;FBLC/en_US;FBBV/213005052;FBCR/CYTAMOBILE-VODAFONE;FBMF/samsung;FBBD/samsung;FBDV/S5230 Star;FBSV/10;FBCA/armeabi v7a:armeabi;FBDM/{density=2.0,width=720,height=1446};]
+Dalvik/2.1.0 (Linux; U; Android 7; SM-A307FN Build/QP1A.176467.689) [FBAN/FB4A;FBAV/419.0.0.29.71;FBBV/442811621;FBDM/{density=2.0,width=720,height=1456};FBLC/en_US;FBRV/0;FBCR/sefat;FBMF/vodafone;FBBD/vodafone;FBPN/com.facebook.katana;FBDV/3gso;FBSV/10;FBOP/1;FBCA/arm64-v8a:;]
